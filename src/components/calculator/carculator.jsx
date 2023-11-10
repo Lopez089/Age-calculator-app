@@ -1,6 +1,10 @@
+import './carculator.css'
+
 export const Carculator = () => {
   return (
-    <hr ></hr>
+    <section className="carculator">
+      a
+    </section>
   )
 }
 

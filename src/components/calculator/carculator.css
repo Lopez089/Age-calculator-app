@@ -1,0 +1,10 @@
+.carculator {
+  background: var(--color-white);
+  min-width: 600px;
+  min-height: 400px;
+  border-radius: 16px 16px 144px 16px;
+  -webkit-border-radius: 16px 16px 144px 16px;
+  -moz-border-radius: 16px 16px 144px 16px;
+  -ms-border-radius: 16px 16px 144px 16px;
+  -o-border-radius: 16px 16px 144px 16px;
+}
