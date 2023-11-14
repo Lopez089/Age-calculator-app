@@ -7,4 +7,6 @@
   -moz-border-radius: 16px 16px 144px 16px;
   -ms-border-radius: 16px 16px 144px 16px;
   -o-border-radius: 16px 16px 144px 16px;
+  box-shadow: 5px 5px 16px 0px #00000050;
+  padding: 2rem;
 }
