@@ -1,4 +1,4 @@
-import { Field } from '../'
+import { Field } from '../../components'
 import './ageForm.css'
 
 export const AgeForm = () => {

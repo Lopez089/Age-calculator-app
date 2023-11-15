@@ -1,0 +1,13 @@
+.showAge {
+  text-align: left;
+  font-size: 4rem;
+  font-weight: bold;
+
+  & p {
+    margin: 0;
+
+    & span {
+      color: var(--color-secondary);
+    }
+  }
+}

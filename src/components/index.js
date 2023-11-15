@@ -1,3 +1,2 @@
-export * from './ageForm/ageForm';
-export * from './calculator/carculator';
 export * from './field/field';
+export * from './showAge/showAge';

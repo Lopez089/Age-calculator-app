@@ -1,5 +1,5 @@
 import './App.css'
-import { Carculator } from './components'
+import { Carculator } from './container'
 
 export const App = () => {
 
